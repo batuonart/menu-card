@@ -1,0 +1,11 @@
+# Symfony
+/vendor/
+/var/
+/public/bundles/
+/node_modules/
+/env
+/var/
+/translations/
+.env
+.phpunit.result.cache
+phpunit.xml
